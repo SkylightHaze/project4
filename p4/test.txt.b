@@ -1,0 +1,11 @@
+PCC;www.pcc.edu;School site;no reviews;6;
+Yahoo;www.yahoo.com;Stupid Search Engine;can never find anything;1;
+Google;www.google.com;Popular Search Engine;best search engine;5;
+Finance;www.Finance.com;Organize your taxes!;no reviews yet;2;
+Finance;www.OwnHomes.org;Help Finance a Home;site doesnt work!!;1;
+Apple;www.Apple.com;Phone store;Apples keep doctors away;5;
+Cheese;www.cheesefood.cheese;Cheese distribuator;Cheese is good;5;
+BadCheese;www.NotGoodCheese.com;We sell garbage;Sold me garbage;1;
+Netflix;www.netflix.com;Video streaming site;loneliness++;4;
+Spotify;www.spotify.com;Music media platform;sometimes lags;3;
+1StarSite;www.NotAGoodSite.com;A bad site that will never show;just terrible;1;
